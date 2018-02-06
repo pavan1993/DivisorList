@@ -5,4 +5,5 @@ for a in range(2,((x//2)+1)):
         divisorlist.append(a)
 
 divisorlist.append(x)
+print("The list of divisors are:\n")
 print(divisorlist)
